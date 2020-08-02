@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.youtubelikecounter.com	TRUE	/	FALSE	1999999999	__cfduid	d3d7d1853c9759a6042a765f955a3272c1596341961
+youtubelikecounter.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
